@@ -1,0 +1,205 @@
+pays;pop;date;is.ue;is.francais.officiel;is.francophone;code;is.otan
+ afghanistan;32564342;2015;0;0;0;AFG;0
+ afrique du sud;54956900;2015;0;0;0;ZAF;0
+ albanie;3063320;2014;0;0;0;ALB;1
+ algerie;40400000;2016;0;0;0;ALG;0
+ allemagne;82800000;2016;1;0;0;DEU;1
+ andorre;71732;2015;0;0;0;AND;0
+ angola;25789024;2014;0;0;0;AGO;0
+ antigua-et-barbuda;91295;2014;0;0;0;ATG;0
+ arabie saoudite;30770375;2014;0;0;0;SAU;0
+ argentine;43590400;2016;0;0;0;ARG;0
+ armenie;3060631;2014;0;0;0;ARM;0
+ australie;24000300;2016;0;0;0;AUS;0
+ autriche;8711500;2016;1;0;0;AUT;0
+ azerbaidjan;9235100;2012;0;0;0;AZE;0
+ bahamas;321834;2014;0;0;0;BHS;0
+ bahrein;1314089;2014;0;0;0;BHR;0
+ bangladesh;160339154;2016;0;0;0;BGD;0
+ barbade;289680;2014;0;0;0;BRB;0
+ belgique;11289853;2016;1;0;1;BEL;1
+ belize;340844;2014;0;0;0;BLZ;0
+ benin;10160556;2014;0;1;1;BEN;0
+ bhoutan;733643;2014;0;0;0;BTN;0
+ bielorussie;9498700;2016;0;0;0;BLR;0
+ birmanie;54363000;2016;0;0;0;MMR;0
+ bolivie;10800882;2015;0;0;0;BOL;0
+ bosnie-herzegovine;3836377;2012;0;0;0;BIH;0
+ botswana;2155784;2014;0;0;0;BWA;0
+ bresil;207096196;2017;0;0;0;BRA;0
+ brunei;422675;2014;0;0;0;BRN;0
+ bulgarie;7153784;2016;1;0;0;BGR;1
+ burkina faso;17322796;2013;0;1;1;BFA;0
+ burundi;9420248;2013;0;0;1;BDI;0
+ cambodge;15458332;2014;0;0;0;KHM;0
+ cameroun;23739218;2015;0;0;1;CMR;0
+ canada;36155487;2016;0;0;1;CAN;1
+ cap-vert;538535;2014;0;0;0;CPV;0
+ chili;16572475;2012;0;0;0;CHL;0
+ chine;1381943057;2016;0;0;0;CHN;0
+ chypre;1186421;2017;1;0;0;CYP;0
+ colombie;48529500;2016;0;0;0;COL;0
+ comores;819746;2017;0;0;1;COM;0
+ coree du nord;24851627;2014;0;0;0;PRK;0
+ coree du sud;51541582;2016;0;0;0;KOR;0
+ costa rica;4713168;2013;0;0;0;CRI;0
+ côte d'ivoire;22671331;2014;0;1;1;CIV;0
+ croatie;4190669;2016;1;0;0;HRV;1
+ cuba;11163934;2012;0;0;0;CUB;0
+ danemark;5707251;2016;1;0;0;DNK;1
+ djibouti;907127;2017;0;0;1;DJI;0
+ dominique;73449;2014;0;0;0;DOM;0
+ egypte;90416900;2016;0;0;0;EGY;0
+ emirats arabes unis;9157000;2015;0;0;0;ARE;0
+ equateur;15445691;2014;0;0;0;ECU;0
+ erythree;6380803;2014;0;0;0;ERI;0
+ espagne;46438422;2016;1;0;0;ESP;1
+ estonie;1315944;2016;1;0;0;EST;1
+ etats-unis;325270439;2016;0;0;0;USA;1
+ ethiopie;102374044;2016;0;0;0;ETH;0
+ fidji;903207;2014;0;0;0;FJI;0
+ finlande;5499514;2016;1;0;0;FIN;0
+ france;67595000;2017;1;0;0;FRA;1
+ gabon;1672597;2014;0;1;1;GAB;0
+ gambie;1925527;2014;0;0;0;GMB;0
+ georgie;4490500;2014;0;0;0;GEO;0
+ ghana;27043093;2014;0;0;0;GHA;0
+ grece;10793526;2016;1;0;0;GRC;1
+ grenade;110152;2014;0;0;0;GRD;0
+ guatemala;14647083;2014;0;0;0;GTM;0
+ guinee;11474383;2014;0;1;1;GIN;0
+ guinee equatoriale;1222442;2015;0;0;1;GNQ;0
+ guinee-bissau;1693398;2014;0;0;0;GNB;0
+ guyana;735554;2014;0;0;0;GUY;0
+ haiti;10911819;2015;0;0;1;HTI;0
+ honduras;8576532;2015;0;0;0;HND;0
+ hongrie;9830485;2016;1;0;0;HUN;1
+ inde;1331787890;2016;0;0;0;IND;0
+ indonesie;262323733;2016;0;0;0;IDN;0
+ irak;36575000;2015;0;0;0;IRQ;0
+ iran;82801633;2016;0;0;0;IRN;0
+ irlande;4664156;2016;1;0;0;IRL;0
+ islande;321857;2013;0;0;0;ISL;1
+ israel;8334000;2015;0;0;0;ISR;0
+ italie;61302519;2016;1;0;0;ITA;1
+ jamaique;2717991;2013;0;0;0;JAM;0
+ japon;126820000;2016;0;0;0;JPN;0
+ jordanie;6706051;2015;0;0;0;JOR;0
+ kazakhstan;17541200;2015;0;0;0;KAZ;0
+ kenya;47251000;2016;0;0;0;KEN;0
+ kirghizistan;5895062;2015;0;0;0;KGZ;0
+ kiribati;104488;2014;0;0;0;KIR;0
+ kosovo;1820631;2013;0;0;0;;0
+ koweit;2742711;2014;0;0;0;KWT;0
+ laos;6803699;2014;0;0;0;LAO;0
+ lesotho;1942008;2014;0;0;0;LSO;0
+ lettonie;1968957;2016;1;0;0;LVA;1
+ liban;5882562;2014;0;0;0;LBN;0
+ liberia;4092310;2014;0;0;0;LBR;0
+ libye;6244174;2014;0;0;0;LBY;0
+ liechtenstein;36842;2012;0;0;0;LIE;0
+ lituanie;2888558;2016;1;0;0;LTU;1
+ luxembourg;576249;2016;1;0;1;LUX;1
+ macedoine;2064032;2013;0;0;0;MKD;0
+ madagascar;21842167;2013;0;0;1;MDG;0
+ malaisie;30417000;2014;0;0;0;MYS;0
+ malawi;15805239;2014;0;0;0;MWI;0
+ maldives;393595;2014;0;0;0;MDV;0
+ mali;16455903;2014;0;1;1;MLI;0
+ malte;434403;2016;1;0;0;MLT;0
+ maroc;33655786;2016;0;0;0;MAR;0
+ maurice;1331155;2014;0;0;0;MUS;0
+ mauritanie;3516806;2014;0;0;1;MRT;0
+ mexique;122273500;2016;0;0;0;MEX;0
+ micronesie;105681;2014;0;0;0;FSM;0
+ moldavie;3555200;2015;0;0;0;MDA;0
+ monaco;37800;2015;0;1;1;MCO;0
+ mongolie;2953190;2014;0;0;0;MNG;0
+ montenegro;650036;2014;0;0;0;MNE;0
+ mozambique;27220000;2014;0;0;0;MOZ;0
+ namibie;2198406;2014;0;0;0;NAM;0
+ nauru;9488;2014;0;0;0;NRU;0
+ nepal;28000000;2015;0;0;0;NPL;0
+ nicaragua;6167237;2015;0;0;0;NIC;0
+ niger;16274738;2012;0;1;1;NER;0
+ nigeria;186988000;2016;0;0;0;NGA;0
+ niue;1611;2011;0;0;0;NIU;0
+ norvege;5214890;2016;0;0;0;NOR;1
+ nouvelle-zelande;4661320;2016;0;0;0;NZL;0
+ oman;3623000;2012;0;0;0;OMN;0
+ ossetie du sud;51547;2013;0;0;0;;0
+ ouganda;37101745;2015;0;0;0;UGA;0
+ ouzbekistan;30492800;2015;0;0;0;UZB;0
+ pakistan;194098063;2016;0;0;0;PAK;0
+ palaos;21186;2014;0;0;0;PLW;0
+ palestine;4550368;2014;0;0;0;PSE;0
+ panama;3608431;2014;0;0;0;PAN;0
+ papouasie-nouvelle-guinee;6552730;2014;0;0;0;PNG;0
+ paraguay;6703860;2014;0;0;0;PRY;0
+ pays-bas;17045144;2016;1;0;0;NLD;1
+ perou;30147935;2014;0;0;0;PER;0
+ philippines;102815800;2016;0;0;0;PHL;0
+ pologne;37967209;2016;1;0;0;POL;1
+ portugal;10341330;2016;1;0;0;PRT;1
+ qatar;2334029;2015;0;0;0;QAT;0
+ republique centrafricaine;5277959;2014;0;0;1;CAF;0
+ republique democratique du congo;85026000;2015;0;1;1;COD;0
+ republique dominicaine;9980243;2015;0;0;0;DOM;0
+ republique du congo;4662446;2014;0;1;1;COG;0
+ republique tcheque;10445783;2016;1;0;0;CZE;1
+ roumanie;19942642;2014;1;0;0;ROU;1
+ royaume-uni;65341183;2016;1;0;0;GBR;1
+ russie;146544710;2016;0;0;0;RUS;0
+ rwanda;12337138;2014;0;0;1;RWA;0
+ saint-christophe-et-nieves;51538;2014;0;0;0;KNA;0
+ sainte-lucie;163362;2014;0;0;0;LCA;0
+ saint-marin;32480;2013;0;0;0;SMR;0
+ saint-vincent-et-les grenadines;102918;2014;0;0;0;VCT;0
+ salomon;609883;2014;0;0;0;SLB;0
+ salvador;6125512;2014;0;0;0;SLV;0
+ samoa;196628;2014;0;0;0;WSM;0
+ sao tome-et-principe;190428;2014;0;0;0;STP;0
+ senegal;13567338;2013;0;1;1;SEN;0
+ serbie;7141929;2016;0;0;0;SRB;0
+ seychelles;91650;2014;0;0;1;SYC;0
+ sierra leone;5743725;2014;0;0;0;SLE;0
+ singapour;5312400;2012;0;0;0;SGP;0
+ slovaquie;5407910;2016;1;0;0;SVK;1
+ slovenie;2064188;2016;1;0;0;SVN;1
+ somalie;12316895;2014;0;0;0;SOM;0
+ soudan;39598700;2016;0;0;0;SDN;0
+ soudan du sud;11562695;2014;0;0;0;SSD;0
+ sri lanka;20675000;2014;0;0;0;LKA;0
+ suede;9998000;2016;1;0;0;SWE;0
+ suisse;8327100;2015;0;0;1;CHE;0
+ suriname;573311;2014;0;0;0;SUR;0
+ swaziland;1419623;2014;0;0;0;SWZ;0
+ syrie;18090242;2016;0;0;0;SYR;0
+ tadjikistan;8354000;2015;0;0;0;TJK;0
+ taiwan;23449287;2015;0;0;0;TWN;0
+ tanzanie;55155000;2016;0;0;0;TZA;0
+ tchad;11412107;2014;0;0;1;TCD;0
+ thailande;65242920;2016;0;0;0;THA;0
+ timor oriental;1201542;2014;0;0;0;TLS;0
+ togo;7351374;2014;0;1;1;TGO;0
+ tonga;106440;2014;0;0;0;TON;0
+ trinite-et-tobago;1223916;2014;0;0;0;TTO;0
+ tunisie;10982754;2014;0;0;0;TUN;0
+ turkmenistan;5171943;2014;0;0;0;TKM;0
+ turquie;78741053;2015;0;0;0;TUR;1
+ tuvalu;10782;2014;0;0;0;TUV;0
+ ukraine;42774605;2015;0;0;0;UKR;0
+ union europeenne;510056011;2016;0;0;0;;0
+ uruguay;3332972;2014;0;0;0;URY;0
+ vanuatu;286434;2016;0;0;1;VUT;0
+ vatican;921;2015;0;0;1;VAT;0
+ venezuela;30206307;2014;0;0;0;VEN;0
+ viet nam;91700000;2016;0;0;0;VNM;0
+ yemen;26180000;2014;0;0;0;YEM;0
+ zambie;14638505;2014;0;0;0;ZMB;0
+ zimbabwe;13771721;2014;0;0;0;ZWE;0
+abkhazie;240705;2011;0;0;0;;0
+chypre du nord;313626;2014;0;0;0;;0
+iles cook;14974;2011;0;0;0;COK;0
+iles marshall;70983;2014;0;0;0;MHL;0
+sahara occidental;554795;2014;0;0;0;ESH;0

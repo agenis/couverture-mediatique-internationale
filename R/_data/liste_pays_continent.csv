@@ -1,0 +1,205 @@
+pays;is.europe;is.asie;is.afrique;is.moyen.orient;is.amerique.nord;is.amerique.sud;is.amerique centrale;is.oceanie;is.autre
+ afghanistan;0;1;0;0;0;0;0;0;0
+ afrique du sud;0;0;1;0;0;0;0;0;0
+ albanie;1;0;0;0;0;0;0;0;0
+ algerie;0;0;1;0;0;0;0;0;0
+ allemagne;1;0;0;0;0;0;0;0;0
+ andorre;1;0;0;0;0;0;0;0;0
+ angola;0;0;1;0;0;0;0;0;0
+ antigua-et-barbuda;0;0;0;0;0;0;1;0;0
+ arabie saoudite;0;0;0;1;0;0;0;0;0
+ argentine;0;0;0;0;0;1;0;0;0
+ armenie;0;1;0;0;0;0;0;0;0
+ australie;0;0;0;0;0;0;0;1;0
+ autriche;1;0;0;0;0;0;0;0;0
+ azerbaidjan;0;1;0;0;0;0;0;0;0
+ bahamas;0;0;0;0;0;0;1;0;0
+ bahrein;0;0;0;1;0;0;0;0;0
+ bangladesh;0;1;0;0;0;0;0;0;0
+ barbade;0;0;0;0;0;0;1;0;0
+ belgique;1;0;0;0;0;0;0;0;0
+ belize;0;0;0;0;0;0;1;0;0
+ benin;0;0;1;0;0;0;0;0;0
+ bhoutan;0;1;0;0;0;0;0;0;0
+ bielorussie;0;1;0;0;0;0;0;0;0
+ birmanie;0;1;0;0;0;0;0;0;0
+ bolivie;0;0;0;0;0;1;0;0;0
+ bosnie-herzegovine;1;0;0;0;0;0;0;0;0
+ botswana;0;0;1;0;0;0;0;0;0
+ bresil;0;0;0;0;0;1;0;0;0
+ brunei;0;0;0;0;0;0;0;1;0
+ bulgarie;1;0;0;0;0;0;0;0;0
+ burkina faso;0;0;1;0;0;0;0;0;0
+ burundi;0;0;1;0;0;0;0;0;0
+ cambodge;0;1;0;0;0;0;0;0;0
+ cameroun;0;0;1;0;0;0;0;0;0
+ canada;0;0;0;0;1;0;0;0;0
+ cap-vert;0;0;1;0;0;0;0;0;0
+ chili;0;0;0;0;0;1;0;0;0
+ chine;0;1;0;0;0;0;0;0;0
+ chypre;1;0;0;0;0;0;0;0;0
+ colombie;0;0;0;0;0;1;0;0;0
+ comores;0;0;1;0;0;0;0;0;0
+ coree du nord;0;1;0;0;0;0;0;0;0
+ coree du sud;0;1;0;0;0;0;0;0;0
+ costa rica;0;0;0;0;0;0;1;0;0
+ côte d'ivoire;0;0;1;0;0;0;0;0;0
+ croatie;1;0;0;0;0;0;0;0;0
+ cuba;0;0;0;0;0;0;1;0;0
+ danemark;1;0;0;0;0;0;0;0;0
+ djibouti;0;0;1;0;0;0;0;0;0
+ dominique;0;0;0;0;0;0;1;0;0
+ egypte;0;0;1;0;0;0;0;0;0
+ emirats arabes unis;0;0;0;1;0;0;0;0;0
+ equateur;0;0;0;0;0;0;1;0;0
+ erythree;0;0;1;0;0;0;0;0;0
+ espagne;1;0;0;0;0;0;0;0;0
+ estonie;1;0;0;0;0;0;0;0;0
+ etats-unis;0;0;0;0;1;0;0;0;0
+ ethiopie;0;0;1;0;0;0;0;0;0
+ fidji;0;0;0;0;0;0;0;1;0
+ finlande;1;0;0;0;0;0;0;0;0
+ france;1;0;0;0;0;0;0;0;0
+ gabon;0;0;1;0;0;0;0;0;0
+ gambie;0;0;1;0;0;0;0;0;0
+ georgie;0;1;0;0;0;0;0;0;0
+ ghana;0;0;1;0;0;0;0;0;0
+ grece;1;0;0;0;0;0;0;0;0
+ grenade;0;0;0;0;0;0;1;0;0
+ guatemala;0;0;0;0;0;1;0;0;0
+ guinee;0;0;1;0;0;0;0;0;0
+ guinee equatoriale;0;0;1;0;0;0;0;0;0
+ guinee-bissau;0;0;1;0;0;0;0;0;0
+ guyana;0;0;0;0;0;1;0;0;0
+ haiti;0;0;0;0;1;0;0;0;0
+ honduras;0;0;0;0;0;0;1;0;0
+ hongrie;1;0;0;0;0;0;0;0;0
+ inde;0;1;0;0;0;0;0;0;0
+ indonesie;0;0;0;0;0;0;0;1;0
+ irak;0;0;0;1;0;0;0;0;0
+ iran;0;0;0;1;0;0;0;0;0
+ irlande;1;0;0;0;0;0;0;0;0
+ islande;1;0;0;0;0;0;0;0;0
+ israel;0;0;0;1;0;0;0;0;0
+ italie;1;0;0;0;0;0;0;0;0
+ jamaique;0;0;0;0;0;0;1;0;0
+ japon;0;1;0;0;0;0;0;0;0
+ jordanie;0;0;0;1;0;0;0;0;0
+ kazakhstan;0;1;0;0;0;0;0;0;0
+ kenya;0;0;1;0;0;0;0;0;0
+ kirghizistan;0;1;0;0;0;0;0;0;0
+ kiribati;0;0;0;0;0;0;0;1;0
+ kosovo;1;0;0;0;0;0;0;0;0
+ koweit;0;0;0;1;0;0;0;0;0
+ laos;0;1;0;0;0;0;0;0;0
+ lesotho;0;0;1;0;0;0;0;0;0
+ lettonie;1;0;0;0;0;0;0;0;0
+ liban;0;0;0;1;0;0;0;0;0
+ liberia;0;0;1;0;0;0;0;0;0
+ libye;0;0;0;1;0;0;0;0;0
+ liechtenstein;1;0;0;0;0;0;0;0;0
+ lituanie;1;0;0;0;0;0;0;0;0
+ luxembourg;1;0;0;0;0;0;0;0;0
+ macedoine;1;0;0;0;0;0;0;0;0
+ madagascar;0;0;1;0;0;0;0;0;0
+ malaisie;0;0;0;0;0;0;0;1;0
+ malawi;0;0;1;0;0;0;0;0;0
+ maldives;0;1;0;0;0;0;0;0;0
+ mali;0;0;1;0;0;0;0;0;0
+ malte;1;0;0;0;0;0;0;0;0
+ maroc;0;0;1;0;0;0;0;0;0
+ maurice;0;0;1;0;0;0;0;0;0
+ mauritanie;0;0;1;0;0;0;0;0;0
+ mexique;0;0;0;0;0;0;1;0;0
+ micronesie;0;0;0;0;0;0;0;1;0
+ moldavie;1;0;0;0;0;0;0;0;0
+ monaco;1;0;0;0;0;0;0;0;0
+ mongolie;0;1;0;0;0;0;0;0;0
+ montenegro;1;0;0;0;0;0;0;0;0
+ mozambique;0;0;1;0;0;0;0;0;0
+ namibie;0;0;1;0;0;0;0;0;0
+ nauru;0;0;0;0;0;0;0;1;0
+ nepal;0;1;0;0;0;0;0;0;0
+ nicaragua;0;0;0;0;0;0;1;0;0
+ niger;0;0;1;0;0;0;0;0;0
+ nigeria;0;0;1;0;0;0;0;0;0
+ niue;0;0;0;0;0;0;0;1;0
+ norvege;1;0;0;0;0;0;0;0;0
+ nouvelle-zelande;0;0;0;0;0;0;0;1;0
+ oman;0;0;0;1;0;0;0;0;0
+ ossetie du sud;0;1;0;0;0;0;0;0;0
+ ouganda;0;0;1;0;0;0;0;0;0
+ ouzbekistan;0;1;0;0;0;0;0;0;0
+ pakistan;0;1;0;0;0;0;0;0;0
+ palaos;0;0;0;0;0;0;0;1;0
+ palestine;0;0;0;1;0;0;0;0;0
+ panama;0;0;0;0;0;0;1;0;0
+ papouasie-nouvelle-guinee;0;0;0;0;0;0;0;1;0
+ paraguay;0;0;0;0;0;1;0;0;0
+ pays-bas;1;0;0;0;0;0;0;0;0
+ perou;0;0;0;0;0;1;0;0;0
+ philippines;0;0;0;0;0;0;0;1;0
+ pologne;1;0;0;0;0;0;0;0;0
+ portugal;1;0;0;0;0;0;0;0;0
+ qatar;0;0;0;1;0;0;0;0;0
+ republique centrafricaine;0;0;1;0;0;0;0;0;0
+ republique democratique du congo;0;0;1;0;0;0;0;0;0
+ republique dominicaine;0;0;0;0;0;0;1;0;0
+ republique du congo;0;0;1;0;0;0;0;0;0
+ republique tcheque;1;0;0;0;0;0;0;0;0
+ roumanie;1;0;0;0;0;0;0;0;0
+ royaume-uni;1;0;0;0;0;0;0;0;0
+ russie;0;1;0;0;0;0;0;0;0
+ rwanda;0;0;1;0;0;0;0;0;0
+ saint-christophe-et-nieves;0;0;0;0;0;0;1;0;0
+ sainte-lucie;0;0;0;0;0;0;1;0;0
+ saint-marin;1;0;0;0;0;0;0;0;0
+ saint-vincent-et-les grenadines;0;0;0;0;0;0;1;0;0
+ salomon;0;0;0;0;0;0;0;1;0
+ salvador;0;0;0;0;0;0;1;0;0
+ samoa;0;0;0;0;0;0;0;1;0
+ sao tome-et-principe;0;0;1;0;0;0;0;0;0
+ senegal;0;0;1;0;0;0;0;0;0
+ serbie;1;0;0;0;0;0;0;0;0
+ seychelles;0;0;1;0;0;0;0;0;0
+ sierra leone;0;0;1;0;0;0;0;0;0
+ singapour;0;1;0;0;0;0;0;0;0
+ slovaquie;1;0;0;0;0;0;0;0;0
+ slovenie;1;0;0;0;0;0;0;0;0
+ somalie;0;0;1;0;0;0;0;0;0
+ soudan;0;0;1;0;0;0;0;0;0
+ soudan du sud;0;0;1;0;0;0;0;0;0
+ sri lanka;0;1;0;0;0;0;0;0;0
+ suede;1;0;0;0;0;0;0;0;0
+ suisse;1;0;0;0;0;0;0;0;0
+ suriname;0;0;0;0;0;1;0;0;0
+ swaziland;0;0;1;0;0;0;0;0;0
+ syrie;0;0;0;1;0;0;0;0;0
+ tadjikistan;0;1;0;0;0;0;0;0;0
+ taiwan;0;1;0;0;0;0;0;0;0
+ tanzanie;0;0;1;0;0;0;0;0;0
+ tchad;0;0;1;0;0;0;0;0;0
+ thailande;0;1;0;0;0;0;0;0;0
+ timor oriental;0;0;0;0;0;0;0;1;0
+ togo;0;0;1;0;0;0;0;0;0
+ tonga;0;0;0;0;0;0;0;1;0
+ trinite-et-tobago;0;0;0;0;0;1;0;0;0
+ tunisie;0;0;1;0;0;0;0;0;0
+ turkmenistan;0;1;0;0;0;0;0;0;0
+ turquie;0;0;0;1;0;0;0;0;0
+ tuvalu;0;0;0;0;0;0;0;1;0
+ ukraine;1;0;0;0;0;0;0;0;0
+ union europeenne;1;0;0;0;0;0;0;0;0
+ uruguay;0;0;0;0;0;1;0;0;0
+ vanuatu;0;0;0;0;0;0;0;1;0
+ vatican;1;0;0;0;0;0;0;0;0
+ venezuela;0;0;0;0;0;1;0;0;0
+ viet nam;0;1;0;0;0;0;0;0;0
+ yemen;0;0;0;1;0;0;0;0;0
+ zambie;0;0;1;0;0;0;0;0;0
+ zimbabwe;0;0;1;0;0;0;0;0;0
+abkhazie;0;1;0;0;0;0;0;0;0
+chypre du nord;1;0;0;0;0;0;0;0;0
+iles cook;0;0;0;0;0;0;0;1;0
+iles marshall;0;0;0;0;0;0;0;1;0
+sahara occidental;0;0;1;0;0;0;0;0;0
