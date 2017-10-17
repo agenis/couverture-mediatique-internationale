@@ -51,7 +51,7 @@ trim.leading=function (x)  sub("^\\s+", "", x)
 liste.pays$pays <- trim.leading(liste.pays$pays)
 
 url.main <- "http://www.liberation.fr/recherche/?sort=-publication_date_time&q="
-for ( annee in 2007:20016){
+for ( annee in 2007:2016){
   sum.year=numeric(0)
   for (key in (liste.pays$pays)) {
     number=numeric(0)
